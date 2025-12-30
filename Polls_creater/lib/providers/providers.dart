@@ -35,7 +35,7 @@ class PollsProvider extends ChangeNotifier {
     pollsOptions[index] = value;
   }
 
-  /// 🔥 SAVE POLL LOCALLY
+  ///  SAVE POLL LOCALLY
   savePoll() {
     allPolls.add(Poll(title: pollsTitle, options: List.from(pollsOptions)));
 
