@@ -18,6 +18,7 @@ class _DashboardState extends State<Dashboard> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.blueGrey,
       appBar: AppBar(title: const Text('Dashboard')),
       body: Consumer<PollsProvider>(
         builder: (context, model, child) {
