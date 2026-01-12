@@ -24,6 +24,7 @@ class _BottomnavigationState extends State<Bottomnavigation> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.blueGrey,
         title: Text('Decision making app'),
         actions: [
           TextButton(onPressed: () {}, child: Icon(Icons.home, size: 20)),
