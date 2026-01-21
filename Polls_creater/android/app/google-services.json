@@ -1,14 +1,13 @@
-
 {
   "project_info": {
-    "project_number": "691565838000",
-    "project_id": "decision-a4644",
-    "storage_bucket": "decision-a4644.firebasestorage.app"
+    "project_number": "000000000000",
+    "project_id": "your-project-id",
+    "storage_bucket": "your-project-id.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:691565838000:android:0930e198eceb943ec1c575",
+        "mobilesdk_app_id": "1:000000000000:android:placeholderappid",
         "android_client_info": {
           "package_name": "com.android.application"
         }
@@ -16,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDdikMASaCkSsD0HCHcxOcVEvM1V10jiFA"
+          "current_key": "YOUR_API_KEY_HERE"
         }
       ],
       "services": {
